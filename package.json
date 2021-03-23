@@ -9,9 +9,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "mathjs": "^9.3.0",
     "moment": "^2.29.1"
   },
   "devDependencies": {
+    "@babel/core": "^7.13.10",
+    "@babel/preset-env": "^7.13.12",
+    "babel-loader": "^8.2.2",
     "webpack": "^5.27.2",
     "webpack-cli": "^4.5.0"
   }
